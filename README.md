@@ -1,2 +1,4 @@
 # dagger
-哈哈哈哈
+
+Snake Games
+贪吃蛇小游戏
